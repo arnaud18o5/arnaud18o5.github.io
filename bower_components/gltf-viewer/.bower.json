@@ -1,0 +1,30 @@
+{
+  "name": "gltf-viewer",
+  "description": "Displays a 3D representation of a glTF file",
+  "main": "gltf-viewer.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^2.0.0-rc.2"
+  },
+  "devDependencies": {
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#2.0-preview",
+    "web-component-tester": "^5.0.1",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0-rc.5"
+  },
+  "resolutions": {
+    "polymer": "^2.0.0-rc.2",
+    "test-fixture": "^3.0.0-rc.1",
+    "web-component-tester": "^6.0.0"
+  },
+  "homepage": "https://github.com/avgp/gltf-viewer",
+  "version": "1.5.1",
+  "_release": "1.5.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.5.1",
+    "commit": "57c791367e2c765d0cc3ab26925a01605b1d2065"
+  },
+  "_source": "https://github.com/avgp/gltf-viewer.git",
+  "_target": "^1.5.1",
+  "_originalSource": "gltf-viewer",
+  "_direct": true
+}
